@@ -12,7 +12,7 @@
         <h2>WebStudio</h2>
             <nav>
                 <ul>
-                    <li>Студия</li>
+                    <li><a href="">Студия</a></li>
                     <li>Портфолио</li>
                     <li>Контакты</li>
                 </ul>
